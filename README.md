@@ -29,20 +29,16 @@ To run this project locally:
 bash: cd your-repository
 3. Open index.html in your browser to view the website.
 
- Technologies Used
-    HTML
-    CSS
-    JavaScript
-    Boxicons (for icons)
 
- Contributing
+
+## Contributing
 If you'd like to contribute to this project, please fork the repository and create a pull request. Make sure to follow the coding standards and add tests for new features.
 
-License
+## License
     This project is licensed under the MIT License.
 
-Contact Information
-Email: lohochris@gmail.com
-GitHub: github.com/lohochris
-LinkedIn: linkedin.com/in/lohochristopher
-Twitter: @Christ49648Loho
+## Contact Information
+-**Email**: lohochris@gmail.com
+-**GitHub**: github.com/lohochris
+-**LinkedIn**: linkedin.com/in/lohochristopher
+-**Twitter**: @Christ49648Loho
