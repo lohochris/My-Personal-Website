@@ -38,7 +38,7 @@ If you'd like to contribute to this project, please fork the repository and crea
     This project is licensed under the MIT License.
 
 ## Contact Information
--**Email**: lohochris@gmail.com
--**GitHub**: github.com/lohochris
--**LinkedIn**: linkedin.com/in/lohochristopher
--**Twitter**: @Christ49648Loho
+- **Email**: lohochris@gmail.com
+- **GitHub**: github.com/lohochris
+- **LinkedIn**: linkedin.com/in/lohochristopher
+- **Twitter**: @Christ49648Loho
