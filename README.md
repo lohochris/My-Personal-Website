@@ -1,4 +1,4 @@
-# My-Personal-Website
+# MY-PERSONAL-WEBSITE
 
 Welcome to **Chris Code**, the personal website of Loho Christopher, a Mathematician, Full Stack Web Developer, and Generative AI Specialist. This website showcases my expertise in web development, AI, cybersecurity, and data analysis.
 
@@ -24,7 +24,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lohochris/My-Personal-Website.git
+   git clone https://github.com/lohochris/MY-PERSONAL-WEBSITE.git
 2. Navigate to the project directory:
 bash: cd your-repository
 3. Open index.html in your browser to view the website.
